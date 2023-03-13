@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedshamia" alt="mohammedshamia" /></a> </p>
 
-- 🔭 I’m currently working on [Next DJ Events App](https://github.com/mohammedshamia/Next-DJ-Events-App)
-
-- 🌱 I’m currently learning **Python**
-
 - 💬 Ask me about **React, Node, TypeScript, JavaScript**
 
 - 📫 How to reach me **mohdkarera@gmail.com**
